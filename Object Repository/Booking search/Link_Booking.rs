@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Link_Booking</name>
+   <tag></tag>
+   <elementGuidId>36d96ba8-7974-49b7-9d6b-c0e4ae63c537</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;root&quot;]/div[1]/section[1]/section[1]/main[1]/main[1]/div[1]/div[1]/ul[1]/li[4]/a[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;root&quot;]/div[1]/section[1]/section[1]/main[1]/main[1]/div[1]/div[1]/ul[1]/li[4]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

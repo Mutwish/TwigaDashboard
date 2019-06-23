@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CloseHarvestdate_Filter</name>
+   <tag></tag>
+   <elementGuidId>ab18bf94-bae0-4765-8295-d2bd4280979a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/section/section/main/main/div/div[2]/div/div/form/div[2]/div/div/span/span/div/i[1]/svg/path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/section/section/main/main/div/div[2]/div/div/form/div[2]/div/div/span/span/div/i[1]/svg/path</value>
+   </webElementProperties>
+</WebElementEntity>

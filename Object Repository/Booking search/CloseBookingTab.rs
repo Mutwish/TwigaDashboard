@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>CloseBookingTab</name>
+   <tag></tag>
+   <elementGuidId>09cd351b-dabc-45aa-800a-7cedc98e2b21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/section/section/main/main/div/div[4]/div/span/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/section/section/main/main/div/div[4]/div/span/div[2]/button</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DropdownHarvestDate</name>
+   <tag></tag>
+   <elementGuidId>a24c011e-6b82-43b8-8c0b-483f3ecca41a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;harvest_date&quot;]/div[1]/input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;harvest_date&quot;]/div[1]/input[1]</value>
+   </webElementProperties>
+</WebElementEntity>
