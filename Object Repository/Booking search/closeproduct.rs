@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>CloseProductFilter</name>
+   <name>closeproduct</name>
    <tag></tag>
-   <elementGuidId>8e48e76a-6b21-4952-8dec-55fd89cedcdd</elementGuidId>
+   <elementGuidId>e001c7e0-2991-4e7c-903e-45e0441d43d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>CloseProductFilter</name>
+   <name>CloseCollectionFilter</name>
    <tag></tag>
-   <elementGuidId>8e48e76a-6b21-4952-8dec-55fd89cedcdd</elementGuidId>
+   <elementGuidId>30c6fcb2-bad1-42c1-8f86-89ad8f168bc4</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='product_id']/div/span[2]/i</value>
+         <value>//div[@id='collection_center_id']/div/span[2]/i</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id(&quot;collection_center_id”)]//div[1]/i[@class=&quot;anticon anticon-close-circle ant-select-clear-icon&quot;]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
@@ -38,49 +42,48 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;product_id&quot;)/div[@class=&quot;ant-select-selection
-            ant-select-selection--single&quot;]/span[@class=&quot;ant-select-arrow&quot;]/i[@class=&quot;anticon anticon-down ant-select-arrow-icon&quot;]</value>
+      <value>//*[@id(&quot;collection_center_id”)]//div[1]/i[@class=&quot;anticon anticon-close-circle ant-select-clear-icon&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='product_id']/div/span[2]/i</value>
+      <value>//div[@id='collection_center_id']/div/span[2]/i</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bananas'])[1]/following::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nziu'])[1]/following::i[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produce'])[1]/following::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Center'])[1]/following::i[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[1]/preceding::i[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bookings'])[1]/preceding::i[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Center'])[1]/preceding::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Farmer'])[1]/preceding::i[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/i</value>
+      <value>//div[5]/div/div/span/div/div/span[2]/i</value>
    </webElementXpaths>
 </WebElementEntity>

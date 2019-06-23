@@ -17,6 +17,8 @@ WebUI.openBrowser('https://staging.portal.twiga.tech/login')
 
 WebUI.delay(3)
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Login/Input_UserNo'), '0702597429')
 
 WebUI.delay(3)

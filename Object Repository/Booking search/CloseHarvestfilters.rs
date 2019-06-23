@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>CloseProductFilter</name>
+   <name>CloseHarvestfilters</name>
    <tag></tag>
-   <elementGuidId>8e48e76a-6b21-4952-8dec-55fd89cedcdd</elementGuidId>
+   <elementGuidId>7920270e-ad4a-48cb-92a6-3c9207ef48ab</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='product_id']/div/span[2]/i</value>
+         <value>//span[@id='harvest_date']/div/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -24,63 +24,69 @@
       <matchCondition>equals</matchCondition>
       <name>aria-label</name>
       <type>Main</type>
-      <value>icon: down</value>
+      <value>icon: close-circle</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>anticon anticon-down ant-select-arrow-icon</value>
+      <value>anticon anticon-close-circle ant-calendar-picker-clear</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;product_id&quot;)/div[@class=&quot;ant-select-selection
-            ant-select-selection--single&quot;]/span[@class=&quot;ant-select-arrow&quot;]/i[@class=&quot;anticon anticon-down ant-select-arrow-icon&quot;]</value>
+      <value>id(&quot;harvest_date&quot;)/div[1]/i[@class=&quot;anticon anticon-close-circle ant-calendar-picker-clear&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='product_id']/div/span[2]/i</value>
+      <value>//span[@id='harvest_date']/div/i</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bananas'])[1]/following::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='···'])[5]/following::i[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produce'])[1]/following::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Farmers'])[1]/following::i[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[1]/preceding::i[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produce'])[1]/preceding::i[2]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Center'])[1]/preceding::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[1]/preceding::i[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/i</value>
+      <value>//div[2]/div/div/span/span/div/i</value>
    </webElementXpaths>
 </WebElementEntity>

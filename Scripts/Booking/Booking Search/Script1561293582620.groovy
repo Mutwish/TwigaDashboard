@@ -41,7 +41,7 @@ WebUI.mouseOver(findTestObject('Booking search/DropdownHarvestDate'))
 
 WebUI.delay(3)
 
-not_run: WebUI.click(findTestObject('Booking search/CloseHarvestdate_Filter'))
+WebUI.click(findTestObject('Booking search/CloseHarvestfilters'))
 
 WebUI.delay(2)
 
@@ -53,5 +53,25 @@ WebUI.click(findTestObject('Booking search/SelectProduct_Banana'))
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Booking search/CloseProductFilter'))
+not_run: WebUI.click(findTestObject('Booking search/closeproduct'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Booking search/DropDownArea'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Booking search/SelectArea'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Booking search/DropDownCollectionCenter'))
+
+WebUI.delay(3)
+
+WebUI.click(findTestObject('Booking search/SelectCollectionCenter'))
+
+WebUI.delay(3)
+
+not_run: WebUI.click(findTestObject('Booking search/CloseCollection'))
 

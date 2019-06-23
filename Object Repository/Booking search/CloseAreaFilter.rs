@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>CloseProductFilter</name>
+   <name>CloseAreaFilter</name>
    <tag></tag>
-   <elementGuidId>8e48e76a-6b21-4952-8dec-55fd89cedcdd</elementGuidId>
+   <elementGuidId>c452ac75-ca3e-496e-b84d-f3ad8e57934d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='product_id']/div/span[2]/i</value>
+         <value>//div[@id='area_id']/div/span/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -38,7 +38,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;product_id&quot;)/div[@class=&quot;ant-select-selection
+      <value>id(&quot;area_id&quot;)/div[@class=&quot;ant-select-selection
             ant-select-selection--single&quot;]/span[@class=&quot;ant-select-arrow&quot;]/i[@class=&quot;anticon anticon-down ant-select-arrow-icon&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
@@ -46,41 +46,41 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='product_id']/div/span[2]/i</value>
+      <value>//div[@id='area_id']/div/span/i</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bananas'])[1]/following::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[1]/following::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Produce'])[1]/following::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bananas'])[1]/following::i[3]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Area'])[1]/preceding::i[1]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Center'])[1]/preceding::i[1]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collection Center'])[1]/preceding::i[2]</value>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bookings'])[1]/preceding::i[4]</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//span[2]/i</value>
+      <value>//div[4]/div/div/span/div/div/span/i</value>
    </webElementXpaths>
 </WebElementEntity>
